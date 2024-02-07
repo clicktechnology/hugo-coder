@@ -1,5 +1,5 @@
-baseURL = "https://example.com/"
+baseURL = "http://www.cloudguyinbroadstone.com"
 
 [module]
 [module.hugoVersion]
-min = "0.77.0"
+min = "0.119.0"
